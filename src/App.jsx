@@ -249,7 +249,7 @@ export default function Calendar() {
             and Date-FNS
           </p>
 
-          <ul>
+          {/* <ul>
             <li>move dark toggle inside card</li>
             <li>add back to website arrow</li>
             <li>add husky and pro software engineering best practices</li>
@@ -264,7 +264,7 @@ export default function Calendar() {
               add toggles for meetings dot indicator, display dates from other
               months, etc.
             </li>
-          </ul>
+          </ul> */}
         </div>
       </div>
     </main>
