@@ -244,10 +244,10 @@ export default function Calendar() {
               </ol>
             </section>
           </div>
-          <p>
+          {/* <p>
             An interactive calendar built with React, TailwindCSS, Heroicons,
             and Date-FNS
-          </p>
+          </p> */}
 
           {/* <ul>
             <li>move dark toggle inside card</li>
